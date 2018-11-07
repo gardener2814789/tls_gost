@@ -12,7 +12,7 @@ mkdir -p /www/
 mkdir -p /var/log/nginx
 ```
 
-### Static build Nginx + OpenSSL
+### Build Nginx + OpenSSL
 ```sh
 cd /home/user/proj/src
 wget https://nginx.org/download/nginx-1.14.0.tar.gz
